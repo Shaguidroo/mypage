@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(29, 26, 26);
+}
+h1{
+    text-size-adjust: 90px;
+    color: azure;
+ }
+ head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 20vh;
+ }
